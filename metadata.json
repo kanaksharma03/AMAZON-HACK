@@ -1,0 +1,8 @@
+{
+  "name": "Bhujal",
+  "description": "AI-driven GIS platform for spring revival, groundwater recharge, and heat resilience planning in tribal regions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
